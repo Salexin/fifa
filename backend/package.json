@@ -1,0 +1,1 @@
+{"name":"fut-sbc-backend","version":"1.0.0","description":"API dla generowania najtańszych rozwiązań SBC na podstawie trydis/FIFA-Ultimate-Team-Toolkit","main":"server.js","type":"module","scripts":{"start":"node server.js"},"dependencies":{"@trydis/fifa-ultimate-team-toolkit":"^7.0.0","express":"^4.18.2","cors":"^2.8.5"}}
